@@ -1,0 +1,14 @@
+{
+  "name": "dukaan",
+  "version": "1.0.2",
+  "description": "A local key:value store.",
+  "main": "lib/store.js",
+  "bin": {
+    "dukaan": "./bin/dukaan.js"
+  },
+  "author": "nagraj",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
